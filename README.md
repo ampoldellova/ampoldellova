@@ -13,5 +13,3 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-141414?style=for-the-badge&logo=insomnia&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-141414.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-141414.svg?style=for-the-badge&logo=javascript&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-141414.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-141414.svg?style=for-the-badge&logo=html5&logoColor=white)
