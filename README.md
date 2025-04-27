@@ -1,6 +1,6 @@
 
 
-![PHP](https://img.shields.io/badge/php-4183C4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-4183C4.svg?style=for-the-badge&logo=php&logoColor=141414)
 ![Laravel](https://img.shields.io/badge/laravel-4183C4.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4183C4.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4183C4.svg?style=for-the-badge&logo=mongodb&logoColor=white)
